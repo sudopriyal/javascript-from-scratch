@@ -1,0 +1,11 @@
+*{
+    font-family: Montserrat, sans-serif;
+}
+.para{
+    text-decoration: underline;
+    text-transform: uppercase;
+}
+.main-content{
+    text-align: left;
+    justify-self: center;
+}
