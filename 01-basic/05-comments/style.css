@@ -1,0 +1,11 @@
+body{
+    font-family: Montserrat, sans-serif;
+}
+
+.monospace{
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    background-color: rgb(232, 232, 232);
+    border-radius: 10px;
+    padding: 3px;
+}
